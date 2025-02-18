@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EasyBank accounts related prod apis"
+  message: "Welcome to EasyBank accounts related production apis"
   contactDetails:
     name: "Alice Juna - Product Owner"
     email: "{cipher}07caee05a232169eec77ca1828a7e39bf2dbe36d7247bffaa3b9c46fa515a5cb086bca4882e8b9b80449c34c45364a19"
