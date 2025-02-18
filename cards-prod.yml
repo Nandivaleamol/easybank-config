@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EasyBank cards related production apis"
+  message: "Welcome to EasyBank cards related prod apis"
   contactDetails:
     name: "Alice Juna - Product Owner"
     email: "alice.juna@example.com"
