@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EasyBank loans related QA apis"
+  contactDetails:
+    name: "Alex Ray - QA LEAD"
+    email: "alex.ray@example.com"
+  onCallSupport:
+    - 918928342342
+    - 919823412451

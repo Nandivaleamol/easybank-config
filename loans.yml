@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EasyBank loans related local apis"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john.doe@example.com"
+  onCallSupport:
+    - 918928342342
+    - 919823423452

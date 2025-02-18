@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EasyBank accounts related prod apis"
+  contactDetails:
+    name: "Alice Juna - Product Owner"
+    email: "alice.juna@example.com"
+  onCallSupport:
+    - 912398234234
+    - 919823429893
